@@ -1,0 +1,38 @@
+# Node
+node_modules/
+**/node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Model weights
+*.pt
+*.pth
+*.onnx
+
+# Datasets
+datasets/
+data/
+runs/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Demo videos
+*.mp4
+*.avi
+*.mov
